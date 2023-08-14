@@ -1,0 +1,22 @@
+body {
+    font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+nav, a, .navbar-brand {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 28px;
+    color: darkorange;
+}
+
+mark {
+    background-color: darkorange;
+}
